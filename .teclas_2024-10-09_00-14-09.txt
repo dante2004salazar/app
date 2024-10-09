@@ -1,1 +1,12 @@
 00:14:09: Key.cmd
+00:14:23: Key.ctrl_l
+00:14:23: \x03
+00:14:24: Key.cmd
+00:14:25: w
+00:14:26: Key.backspace
+00:14:26: Key.backspace
+00:14:26: c
+00:14:26: a
+00:14:27: Key.enter
+00:14:29: Key.ctrl_l
+00:14:29: \x16
