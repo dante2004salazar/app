@@ -58,3 +58,9 @@
 13:20:53: Key.num_lock
 13:20:55: Key.num_lock
 13:20:56: Key.num_lock
+13:20:58: Key.num_lock
+13:21:00: Key.num_lock
+13:21:01: Key.num_lock
+13:21:03: Key.num_lock
+13:21:04: Key.num_lock
+13:21:06: Key.num_lock
