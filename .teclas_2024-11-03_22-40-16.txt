@@ -6,3 +6,9 @@
 22:40:21: a
 22:40:23: Key.alt_l
 22:40:23: Key.tab
+22:40:28: Key.alt_l
+22:40:28: Key.tab
+22:40:28: Key.alt_l
+22:40:28: Key.tab
+22:40:29: Key.alt_l
+22:40:29: Key.tab
