@@ -39,3 +39,15 @@
 01:17:00: s
 01:17:02: t
 01:17:03: e
+01:17:03: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: Key.backspace
+01:17:04: s
+01:17:04: e
+01:17:04: Key.enter
